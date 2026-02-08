@@ -1,2 +1,5 @@
 # handwritten_notes
-my handwritten notes across studying applied math related topics
+my handwritten notes across studying applied math related topics. Books include:
+1. Quantum Mechanics by Mark Beck
+2. Advance Engineering Mathematics by Kreyzig
+3. Introduction to Real Analysis by Robert Bartle
